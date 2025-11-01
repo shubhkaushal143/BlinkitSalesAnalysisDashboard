@@ -14,9 +14,7 @@
 This data Analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various KPI's 
 we have created a interactive dashboard for your understanding.
 
-! [Dashboard](Blinkit Final dashboard.PNG)
-<img width="1293" height="739" alt="Blinkit Final dashboard" src="https://github.com/user-attachments/assets/34d19bba-68f9-41af-920d-880e8e37ec31" />
-
+![Dashboard]("Blinkit Final dashboard.png")
 ---
 
 ### Data Sources
